@@ -4,7 +4,7 @@ A focused, production-grade Pomodoro timer with daily session history.
 
 ## Live Demo
 
-> Deploy to Vercel/Netlify — see deployment steps below.
+> Deploy to Vercel : see deployment steps below.
 
 ---
 
@@ -18,7 +18,7 @@ A focused, production-grade Pomodoro timer with daily session history.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/pomodoro-timer.git
+git clone https://github.com/AMAN-AJWA-FATIMA/pomodoro-timer.git
 cd pomodoro-timer
 
 # 2. Install dependencies
@@ -47,10 +47,10 @@ npx vercel --prod
 
 ## Tech Stack
 
-- **React 18** + **Vite** — fast dev experience, minimal config
-- **Vanilla CSS** via a style injection pattern — no CSS-in-JS overhead
-- **Web Audio API** — no external audio dependencies
-- `localStorage` — session history persists across reloads, auto-resets on new day
+- **React 18** + **Vite** : fast dev experience, minimal config
+- **Vanilla CSS** via a style injection pattern  no CSS-in-JS overhead
+- **Web Audio API** : no external audio dependencies
+- `localStorage` : session history persists across reloads, auto-resets on new day
 
 ---
 
